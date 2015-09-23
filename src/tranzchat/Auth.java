@@ -115,7 +115,7 @@ public class Auth {
             @Override
             public void run() {
                 Auth au = new Auth();
-                au.createUser("chidiebere.nnadi@gmail.com", "Cidm@n5760", "Chidiebere Nnadi", "en");
+                au.createUser("chidiebere.nnadi@gmail.com", "909", "Chidiebere Nnadi", "en");
             }
         });
         firebaseAuth.start();
